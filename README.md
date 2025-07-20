@@ -1,1 +1,1 @@
-Interactive Action Game 
+Action Game
